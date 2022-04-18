@@ -24,11 +24,11 @@
 </p>
 <br>
 
-# What-makes-playlist-successful
-## Case Study: What Makes a Playlist Successful
+# Case Study: What-makes-playlist-successful
 
 
-Why
-How
+**Why**
+
+**How**
 
 
