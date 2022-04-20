@@ -32,3 +32,12 @@
 **How**
 
 
+
+**Project Goal (Business Goal and Technical Goal)**
+**Strategy**
+**Defining Success Metrics**
+**Feature Engineering: Candidates for Successful Playlists**
+**Data Exploration and Visualization**
+**Conclusions**
+
+
