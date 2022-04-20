@@ -31,7 +31,7 @@
 
 **How**
 
-
+## List of Content
 
 **Project Goal (Business Goal and Technical Goal)**
 
@@ -47,5 +47,7 @@
 
 <img width="690" alt="Screenshot 2022-04-20 at 8 10 57 AM" src="https://user-images.githubusercontent.com/76843403/164162096-3f0992f0-3db9-4404-ac92-dbaede34a6db.png">
 
+## Data
+<img width="722" alt="Screenshot 2022-04-20 at 8 11 33 AM" src="https://user-images.githubusercontent.com/76843403/164162178-feabd8cc-618e-4694-856f-35bae10c16d3.png">
 
 
