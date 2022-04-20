@@ -65,9 +65,9 @@
 ## Descriptive Statistics
 
 
-<img width="916" alt="Screenshot 2022-04-20 at 8 12 54 AM" src="https://user-images.githubusercontent.com/76843403/164162368-6e825825-b75b-487b-8b5a-fc9d0d6401bf.png">
+<img width="700" alt="Screenshot 2022-04-20 at 8 12 54 AM" src="https://user-images.githubusercontent.com/76843403/164162368-6e825825-b75b-487b-8b5a-fc9d0d6401bf.png">
 
-<img width="989" alt="Screenshot 2022-04-20 at 8 13 03 AM" src="https://user-images.githubusercontent.com/76843403/164162383-ff6578dd-a26c-4e4f-b1dc-35fac4436bbe.png">
+<img width="700" alt="Screenshot 2022-04-20 at 8 13 03 AM" src="https://user-images.githubusercontent.com/76843403/164162383-ff6578dd-a26c-4e4f-b1dc-35fac4436bbe.png">
 
 
 
