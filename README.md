@@ -31,6 +31,11 @@
 
 **How**
 
+
+
+
+
+
 ## List of Content
 
 **Project Goal (Business Goal and Technical Goal)**
@@ -47,7 +52,22 @@
 
 <img width="690" alt="Screenshot 2022-04-20 at 8 10 57 AM" src="https://user-images.githubusercontent.com/76843403/164162096-3f0992f0-3db9-4404-ac92-dbaede34a6db.png">
 
+
+
+
+
 ## Data
 <img width="722" alt="Screenshot 2022-04-20 at 8 11 33 AM" src="https://user-images.githubusercontent.com/76843403/164162178-feabd8cc-618e-4694-856f-35bae10c16d3.png">
+
+
+
+
+## Descriptive Statistics
+
+
+<img width="916" alt="Screenshot 2022-04-20 at 8 12 54 AM" src="https://user-images.githubusercontent.com/76843403/164162368-6e825825-b75b-487b-8b5a-fc9d0d6401bf.png">
+
+<img width="989" alt="Screenshot 2022-04-20 at 8 13 03 AM" src="https://user-images.githubusercontent.com/76843403/164162383-ff6578dd-a26c-4e4f-b1dc-35fac4436bbe.png">
+
 
 
