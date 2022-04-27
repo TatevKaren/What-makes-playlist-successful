@@ -38,17 +38,17 @@ Medium Blog: https://tatev-aslanyan.medium.com/spotify-data-science-case-study-w
 
 ## List of Content
 
-**Project Goal (Business Goal and Technical Goal)**
+- Project Goal (Business Goal and Technical Goal)
 
-**Strategy**
+- Strategy
 
-**Defining Success Metrics**
+- Defining Success Metrics
 
-**Feature Engineering: Candidates for Successful Playlists**
+- Feature Engineering: Candidates for Successful Playlists
 
-**Data Exploration and Visualization**
+- Data Exploration and Visualization
 
-**Conclusions**
+- Conclusions
 
 <img width="690" alt="Screenshot 2022-04-20 at 8 10 57 AM" src="https://user-images.githubusercontent.com/76843403/164162096-3f0992f0-3db9-4404-ac92-dbaede34a6db.png">
 
