@@ -32,7 +32,7 @@
 **How**
 
 
-Medium Blog: https://medium.com/towards-data-science/spotify-data-science-case-study-what-makes-a-playlist-successful-28fec482c523
+Medium Blog: https://towardsdatascience.com/spotify-data-science-case-study-what-makes-a-playlist-successful-28fec482c523
 
 <br>
 <br>
